@@ -1,22 +1,36 @@
-# GoLang For Beginners
-## _All Code files from GoLang course of KodeKloud and also for general references_
-- ✨By Ayush Sahu ✨
-Connect with me on linkedIn [LinkedIn]
+# GoLang For Beginners 🚀
+## _All Code files for general references with comments and easy to understand codes_
+
+- ✨By Ayush Sahu✨
+
+- Star🌟 this repository and fork🍴 to save it to your repos for easy access.
+
+Connect with me : 
+
+linkedIn [LinkedIn]
+
+Twitter [Twitter]
 
 ## What is Go?
 > Go is an open source programming language supported by Google
+
 > Easy to learn and get started with
+
 > Built-in concurrency and a robust standard library
+
 > Growing ecosystem of partners, communities, and tools
 
 ## Installation
-Download Go packages for all OSs at [GoDownload]
+Download Go packages, available for all OSs at [GoDownload]
+
 After the GUI installation process,
-_Open terminal run the below caommand to check that the installation process was succesful_
+
+Open _terminal_ and run the below caommand to check that the installation process was succesful
 ```sh
 go
 ```
 Open your favourite editor
+
 Create a Go file using syntax
 ```sh
 <file_name>.go
@@ -35,12 +49,25 @@ Run the code from the Go file by executing the below command in your terminal
 ```sh
 go run <filename>.go
 ```
-and You're _all set!_
-Good to **_Go_**
+and You're all set and good to **_Go!!_**
+\
+\
+\
+P.S. 
 
-## For more info visit official Go Documentation here [Go-Offical]
+Used IDE : Visual Studio on MacOS Monterey 12.6
 
+Go Version : go1.19.2
 
-[LinkedIn] : <https://www.linkedin.com/in/ayushsahu77/>
-[GoDownload] : <https://go.dev//>
-[Go-Offical] : <https://go.dev/doc//>
+File names are simple as I had to write filenames at terminal to run the file
+
+Download Visual Studio Code on your machine at [VScode]
+
+## For more info visit official Go documentation here [Go-Offical]
+
+[//]: # 
+[LinkedIn]: <https://www.linkedin.com/in/ayushsahu77/>
+[Twitter]: <https://twitter.com/Ayush_7477/>
+[GoDownload]: <https://go.dev//>
+[VScode]:<https://code.visualstudio.com//>
+[Go-Offical]: <https://go.dev/doc//>
