@@ -63,11 +63,11 @@ File names are simple as I had to write filenames at terminal to run the file
 
 Download Visual Studio Code on your machine at [VScode]
 
-## For more info visit official Go documentation here [Go-Offical]
+## For more info visit official Go documentation here [Go-Official]
 
 [//]: # 
 [LinkedIn]: <https://www.linkedin.com/in/ayushsahu77/>
 [Twitter]: <https://twitter.com/Ayush_7477/>
 [GoDownload]: <https://go.dev//>
 [VScode]:<https://code.visualstudio.com//>
-[Go-Offical]: <https://go.dev/doc//>
+[Go-Official]: <https://go.dev/doc//>
