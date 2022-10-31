@@ -57,7 +57,7 @@ P.S.
 
 Used IDE : Visual Studio on MacOS Monterey 12.6
 
-Go Version : go1.19.2
+Go Version : go1.19.2 (Visit Go documentation below to know more about versions and compatibility)
 
 File names are simple as I had to write filenames at terminal to run the file
 
